@@ -1,1 +1,1 @@
-# rsschool-cv
+https://megolom.github.io/rsschool-cv/cv
