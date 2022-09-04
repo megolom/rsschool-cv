@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+h2 {
+    text-align: center;
+}
+header {
+    background-color: lightgray;
+}
+.con {
+    background-color: lightgray;
+    width: 300px;   
+    text-align: center;
+    font-size: 24px;
+    float: left;
+}
+li {
+    font-size: 20px;
+}
+.info {
+    text-indent: 30px;
+    white-space: normal;
+}
+.info p {
+    font-size: 20px;
+}
+u {
+    font-size: 28px;
+}
+.info li {
+    line-height: 40px;
+}
+.final {
+    margin-left: 330px;
+}
+.final li {
+    line-height: 40px;
+}
