@@ -14,4 +14,11 @@ I am 23 years old. Programming has always been interesting, but only now I decid
 * **JavaScript** (Basic)
 * **Fl Studio 20**
 
+### Experience
 
+### Education
+* **University**: Saint Petersburg Electrotechnical University "LETI"
+
+### Language
+* **English**
+* **Russian** (native speaker)
